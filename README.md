@@ -7,12 +7,9 @@ vertical or diagonal row of the board having only their symbols.
 
 The game I developed is a simple tic tac toe game some of the snap i'm attesting with the documents.
 
-<img src="">
+<img src="Screenshot (21).png">
 
-<img src="">
+<img src="Screenshot (22).png">
 
-<img src="">
+<img src="Screenshot (23).png">
 
-<img src="">
-
-<img src="">
